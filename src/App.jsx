@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <main className="bg-[#ccc] w-full h-screen">
-        <div className="w-1/3 mx-auto">
+        <div className="lg:w-1/3 w-11/12 mx-auto">
           <div className="flex justify-center items-center h-screen">
             <div>
               <div className="flex justify-center items-center">

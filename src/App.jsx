@@ -36,7 +36,10 @@ function App() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="#" className="text-base font-normal">
+                    <Link
+                      href="https://x.com/prisca_linee"
+                      className="text-base font-normal"
+                    >
                       <FaXTwitter className="text-3xl" />
                     </Link>
                   </li>
@@ -88,13 +91,19 @@ function App() {
                   {" "}
                   Dribble
                 </Link>
-                {/* <Link className="rounded-[30px] bg-gray-200 shadow-md py-3 text-center">
+                <Link
+                  to="https://www.behance.net/3947b2bd"
+                  className="rounded-[30px] bg-gray-200 shadow-md py-3 text-center"
+                >
                   {" "}
                   Behance
-                </Link> */}
-                <Link className="rounded-[30px] bg-gray-200 shadow-md py-3 text-center">
+                </Link>
+                <Link
+                  to=""
+                  className="rounded-[30px] bg-gray-200 shadow-md py-3 text-center"
+                >
                   {" "}
-                  Behance
+                  Medium
                 </Link>
               </div>
             </div>
